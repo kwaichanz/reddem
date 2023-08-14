@@ -12,7 +12,7 @@ const page: FC = () => {
           Home
         </Link>
 
-        <SignIn />
+        <SignIn  />
       </div>
     </div>
   );
